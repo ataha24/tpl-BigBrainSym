@@ -9,6 +9,9 @@ Please refer to the project page for more details: http://nist.mni.mcgill.ca/?p=
 
 The warped atlases and segmentation labels (not the spatial transformations in MINC format) have also been deposited at OpenNeuro.org in BIDS format: https://openneuro.org/datasets/ds002016/versions/1.0.0
 
+<a href="https://doi.org/10.5281/zenodo.7616117"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7616117.svg" alt="DOI"></a>
+
+
 Associated publications: 
 
 Amunts, K. et al.: “BigBrain: An Ultrahigh-Resolution 3D Human Brain Model”, Science (2013) 340 no. 6139 1472-1475, June 2013
